@@ -39,3 +39,10 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+footer a{
+  display: block;
+  text-decoration: none;
+  color: #EEEEEE;
+  font-weight: 600;
+}
